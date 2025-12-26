@@ -1,0 +1,13 @@
+.rafi{
+    width:500px;
+    height:500px;
+    background-color: blue;
+    border:5px solid red;
+    margin:auto;
+    /*margin:50px 60px 70px 90px
+     here,50px=margin-top,60px=margin-right,70px=margin-bottom,90px=margin-left.
+
+     we can also write it separately.
+     */
+
+}
