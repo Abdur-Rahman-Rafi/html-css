@@ -1,0 +1,18 @@
+.bg{
+    width:700px;
+    height:400px;
+    
+   
+  background: url(app.png);
+  background-repeat: no-repeat;
+   background-position: center;
+}
+p{
+    font-size: 50px;
+}
+.box p{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+}

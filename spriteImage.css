@@ -1,0 +1,11 @@
+.social{
+    width:54px;
+    height:54px;
+    background-image: url(sprite.png);
+    background-position: 0 -40;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.social:hover{
+    background-position:0 0;
+}

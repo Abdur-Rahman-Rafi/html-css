@@ -1,0 +1,16 @@
+h1{
+    color:red;
+    background-color: green;
+}
+
+body{
+    background-color: black;
+    background-image:url(uiu.jpg);
+    background-repeat:no-repeat;
+    background-size: 700px;
+    background-position:right;
+}
+
+p{
+    color:black;
+}

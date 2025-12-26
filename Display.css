@@ -1,0 +1,9 @@
+h1{
+    display:inline-block;
+}
+span{
+   font-size: 20px;
+}
+ul li{
+    display:inline;
+}
